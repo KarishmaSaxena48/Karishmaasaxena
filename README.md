@@ -25,7 +25,7 @@ I'm an AI/ML Developer and MCA student at NIT Faridabad, passionate about buildi
 A personalized AI astrology assistant that collects birth details through a conversational flow and provides grounded astrological readings. Built with a state-machine architecture to prevent LLM hallucinations.
 
 > **Stack:** Python · Streamlit · Groq (Llama 3.3 70B) · LangChain
-> 🔗 [Live Demo](#) ← add your link here
+> 🔗 (https://ai-astrologer-juf4.onrender.com)
 
 ---
 
@@ -33,7 +33,7 @@ A personalized AI astrology assistant that collects birth details through a conv
 An intelligent travel planning app that generates day-by-day itineraries for any destination worldwide. Features dynamic travel photography, budget/style customization, and itinerary export.
 
 > **Stack:** Python · Streamlit · Groq (Llama 3.3 70B) · Unsplash API
-> 🔗 (https://ai-astrologer-juf4.onrender.com)
+> 🔗
 
 ---
 
